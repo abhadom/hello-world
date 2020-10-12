@@ -1,2 +1,4 @@
 # hello-world
-first repository
+
+Hello World!
+Primeiros passos para a programação!
